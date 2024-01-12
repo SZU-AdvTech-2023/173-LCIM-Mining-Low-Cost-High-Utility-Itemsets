@@ -1,0 +1,8 @@
+@inproceedings{REPO173,
+    author = "Nawaz, M. Saqib and Fournier-Viger, Philippe and Alhusaini, Naji and He, Yulin and Wu, Youxi and Bhattacharya, Debdatta",
+    booktitle = "Multi-Disciplinary Trends in Artificial Intelligence: 15th International Conference, MIWAI 2022, Virtual Event, November 17¨C19, 2022, Proceedings",
+    numpages = "13",
+    pages = "73¨C85",
+    title = "{LCIM: Mining Low Cost High Utility Itemsets}",
+    year = "2022"
+}
